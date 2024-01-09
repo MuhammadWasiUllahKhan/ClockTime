@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(13, 160, 160);
+}
+#CTE{
+    cursor: pointer;
+    background-image:linear-gradient(rgba(24, 182, 169, 0.712) , rgba(4, 47, 80, 0.406), rgba(10, 162, 142, 0.413),rgb(15, 120, 125)) ;
+color: white;
+width: 500px;
+height: 150px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-right: auto;
+margin-left: auto;
+margin-top: 160px;
+border-radius: 4px 18px;
+box-shadow: 1px -1px 15px 11px rgba(3, 108, 103, 0.446);
+}
+.Style,.Style1{
+    font-family:fantasy;
+    font-weight: bolder;
+font-size: 100px;
+}
+#Dote ,#Dote2{
+    margin-top: -18px;
+}
+#Dote ,#Dote2,#min,#sec,#Dote3,#Dote4,#day,#month,#year{
+    margin-left: 20px;
+}
+#day,#month,#year{
+    margin-top: 24px;
+    color: white;
+}
+#CT{display: none;
+    background-image:linear-gradient(rgba(24, 182, 169, 0.712) , rgba(4, 47, 80, 0.406), rgba(10, 162, 142, 0.413),rgb(15, 120, 125)) ;
+    color: white;
+    width: 500px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 80px;
+    border-radius: 4px 18px;
+    box-shadow: 1px -1px 15px 11px rgba(3, 108, 103, 0.446);
+}
+
+
+       
+   
