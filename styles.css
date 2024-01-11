@@ -81,6 +81,41 @@ font-size: 100px;
         font-size: 51px;
     }
 }
-
+@media  (max-width:1520px) {
+    body{
+      background-image: url(https://img.freepik.com/free-vector/happy-new-year-2024-text-typography-design-element-flyer-banner-design_460848-17213.jpg?w=740&t=st=1704971619~exp=1704972219~hmac=79c86173eb23d1dd6184b4b8d035ae621a118c6c703fd9318ea076e25a15e156);
+      background-repeat: no-repeat;
+      background-size: 720px 1520px;
+    }
+    #CTE {
+        width: 330px;
+        height: 100px;
+        background-color: rgb(17, 90, 153);
+        background-image: none;
+        
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    #CT{
+        width: 317px;
+        height: 87px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: rgb(17, 90, 153);
+        background-image: none;
+    }
+    #CT Span{
+        margin-left: 4px;
+        font-size: 51px;
+            margin-bottom: 40px;
+            padding: 4px;
+    }
+    #CTE  span{
+        font-size: 51px;
+    }
+}
        
    
