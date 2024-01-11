@@ -81,7 +81,7 @@ font-size: 100px;
         font-size: 51px;
     }
 }
-@media  (max-width:1520px) {
+@media  (max-width:720px) {
     body{
       background-image: url(https://img.freepik.com/free-vector/happy-new-year-2024-text-typography-design-element-flyer-banner-design_460848-17213.jpg?w=740&t=st=1704971619~exp=1704972219~hmac=79c86173eb23d1dd6184b4b8d035ae621a118c6c703fd9318ea076e25a15e156);
       background-repeat: no-repeat;
